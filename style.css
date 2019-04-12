@@ -1,0 +1,25 @@
+p {padding-bottom: 12px}
+h1,h2,h3 {font-weight: 400;}
+h1{font-size: 36px;
+    padding-bottom: 0px;
+}
+h2 {font-size: 32px;
+    border-bottom: 0px;
+    padding-bottom: 8px;
+}
+hr { color: grey;}
+h3 {font-size: 20px;
+    padding-bottom: 0px;
+}
+#header {margin-bottom: 32px;
+           text-align: center;
+}
+#main {margin-bottom: 32px;
+       text-align: left;
+}
+#footer {margin-top: 64px;
+    text-align: center;
+}
+div.left-head {
+    text-align: left;
+    line-height: 0.1}
